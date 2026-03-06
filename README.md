@@ -1,6 +1,6 @@
 # Salt Worker Weather App 🌤️🧂
 
-url:https://uppala-vanna-vedic.base44.app
+**URL**:https://uppala-vanna-vedic.base44.app
 A smart weather monitoring and safety alert system specially designed for salt pan workers.
 
 ## 📌 Features
